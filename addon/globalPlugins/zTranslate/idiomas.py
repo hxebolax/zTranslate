@@ -1,0 +1,73 @@
+# -*- coding: utf-8 -*-
+# Copyright (C) 2022 Héctor J. Benítez Corredera <xebolax@gmail.com>
+# This file is covered by the GNU General Public License.
+
+import addonHandler
+
+addonHandler.initTranslation()
+
+diccionario_lenguajes = {
+	"ar":_("Árabe"),
+	"az":_("Azerí"),
+	"zh":_("Chino"),
+	"cs":_("Checo"),
+	"da":_("Danés"),
+	"nl":_("Neerlandés"),
+	"en":_("Inglés"),
+	"eo":_("Esperanto"),
+	"fi":_("Finés"),
+	"fr":_("Francés"),
+	"de":_("Alemán"),
+	"el":_("Griego"),
+	"hi":_("Hindi"),
+	"hu":_("Húngaro"),
+	"he":_("Hebreo"),
+	"id":_("Indonesio"),
+	"ga":_("Irlandés"),
+	"it":_("Italiano"),
+	"ja":_("Japonés"),
+	"ko":_("Coreano"),
+	"fa":_("Persa"),
+	"pl":_("Polaco"),
+	"pt":_("Portugués"),
+	"ru":_("Ruso"),
+	"sk":_("Eslovaco"),
+	"es":_("Español"),
+	"sv":_("Sueco"),
+	"tr":_("Turco"),
+	"uk":_("Ucraniano"),
+	"vi":_("Vietnamita"),
+}
+
+diccionario_lenguajesEN = {
+	"en":"English",
+	"ar":"Arabic",
+	"az":"Azerbaijani",
+	"zh":"Chinese",
+	"cs":"Czech",
+	"da":"Danish",
+	"nl":"Dutch",
+	"eo":"Esperanto",
+	"fi":"Finnish",
+	"fr":"French",
+	"de":"German",
+	"el":"Greek",
+	"he":"Hebrew",
+	"hi":"Hindi",
+	"hu":"Hungarian",
+	"id":"Indonesian",
+	"ga":"Irish",
+	"it":"Italian",
+	"ja":"Japanese",
+	"ko":"Korean",
+	"fa":"Persian",
+	"pl":"Polish",
+	"pt":"Portuguese",
+	"ru":"Russian",
+	"sk":"Slovak",
+	"es":"Spanish",
+	"sv":"Swedish",
+	"tr":"Turkish",
+	"uk":"Ukranian",
+	"vi":"Vietnamese",
+}

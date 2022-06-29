@@ -1,0 +1,3 @@
+# Manual de zTranslate para NVDA
+
+En construcción…
